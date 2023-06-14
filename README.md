@@ -1,2 +1,7 @@
 # app_for_jenkins
-repo for my jenkins
+
+Status of Last Deployment:
+<br><img src="https://github.com/andreydorokhin/app_for_jenkins/workflows/***/budge.svg?branch=main><br>
+
+  
+Copyleft by Andrey Dorokhin 2023.
